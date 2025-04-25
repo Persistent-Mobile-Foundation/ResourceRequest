@@ -4,7 +4,7 @@ PSL MobileFoundation
 A sample application demonstrating the use to the WLResourceRequest API in Java.
 
 ### Tutorials
-https://pmf.persistentproducts.com/tutorials/en/foundation/8.0/application-development/resource-request/android
+https://pmf.persistentproducts.com/tutorials/en/foundation/9.0/application-development/resource-request/android
 
 ### Usage
 
